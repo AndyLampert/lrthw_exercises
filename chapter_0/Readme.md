@@ -22,3 +22,11 @@ http://ruby-doc.org/core-2.2.0/Hash.html
 **Chronic**
 
 https://github.com/mojombo/chronic
+
+**Additional Links**
+
+1. [.flatten](http://apidock.com/ruby/Array/flatten) - a method that I recently learned that will bring any recursive 
+arrays up to the root array. 
+2. [.uniq](http://apidock.com/ruby/Array/uniq) - a method that I recently learned that will return 1 instance of each
+ value in the array, even if it is repeated.
+
