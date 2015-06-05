@@ -15,7 +15,7 @@ communicated to you and being able to communicate your own thoughts.
 
 is the skill to take in a spec from a client and really understand it. It's also being able to articulate yourelf in 
 the way that you really mean to. It's about using correct grammar and being punctual. It's about checking your work 
-before your submit it as well as ensuring you make as few mistakes as possible along the way.  
+before you submit it as well as ensuring you make as few mistakes as possible along the way.  
 
 **Spotting Differences**
 
