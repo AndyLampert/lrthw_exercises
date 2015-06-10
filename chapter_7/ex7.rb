@@ -1,7 +1,7 @@
 # Print a string
 puts 'Mary had a little lamb.'
 # Print a string that includes a computed string value
-puts "Its fleece was white as #{'snow'}."
+puts 'Its fleece was white as ' + " #{'snow'}."
 # Print a string
 puts 'And everywhere that Mary went.'
 # Concatenate 10 periods together and print them.
