@@ -9,3 +9,7 @@ the trick that we learned in class the other day:
 3. Here, I just dd'd the chapter 1 commit that I accidentally pushed into the chapter 2 branch and saved the file.
 4. `git push -f`
 5. Much rejoycing! 
+
+
+The hotkey to comment out a line of code is command-/ !
+
