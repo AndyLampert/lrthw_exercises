@@ -1,21 +1,7 @@
-```
-[Andy:~]
-% irb
-2.2.0 :001 > 1 + 2
- => 3
-2.2.0 :002 >  1 - 2
- => -1
-2.2.0 :003 > 1 < 2
- => true
-2.2.0 :004 > 1 > 2
- => false
-2.2.0 :005 > 1 <= 2
- => true
-2.2.0 :006 > 1 <= 1
- => true
-2.2.0 :008 > 1 > 2
- => false
-2.2.0 :009 > 1 >= 2
- => false
-2.2.0 :010 > 1 = 2
-```
+seconds = 60
+minutes = 60
+hours = 24
+
+number_of_seconds_in_day = seconds * minutes * hours
+
+puts number_of_seconds_in_day
