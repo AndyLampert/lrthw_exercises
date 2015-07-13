@@ -13,3 +13,5 @@ puts 'This will run.'
 # This was a tough way of checking mistakes...
 # I did it and didn't find any mistakes.
 # I spoke out the program and each character. I did not find any mistakes.
+
+# The hotkey to comment out a line of code is command-/
