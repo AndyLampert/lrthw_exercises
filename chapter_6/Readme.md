@@ -2,10 +2,10 @@
 
 **2. Find all the places where a string is put inside a string. There are four places.**
 
-- line 5
+- line 5 x2
 - line 10
 - line 11
-- line 21
+- ~~line 21~~
 
 **3. Are you sure there are only four places? How do you know? Maybe I like lying.**
 
